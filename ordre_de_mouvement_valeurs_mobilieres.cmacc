@@ -1,0 +1,81 @@
+$ nom_S3 = "nom_societe3" 
+$ type_nom_S3 = "type_nom_societe3"
+$ montant_capital_social_S3 = "montant du capital societe 3"
+$ adresse_siege_social_S3 = "adresse de la societe 3"
+$ numero_RCS_S3 = "numero RCS"
+$ ville_immatriculation_S3 = "nom de la ville"
+$ nombre_actions = "nombre"
+$ nombre_actions_en_lettres = "nombre"
+$ nom_S1 = "nom_societe1"
+$ numero_RCS_S1 = "numero RCS" 
+$ adresse_siege_social_S1 = "adresse de la societe 1" 
+$ nom_S2 = "nom_societe2"
+$ numero_RCS_S2 = "numero RCS" 
+$ adresse_siege_social_S2 = "adresse de la societe 2"
+$ date_signature_contrat = "DATE" 
+$ date_inscription_compte_beneficiaire = "DATE"
+
+
+
+$ nom_S1 = "nom_societe1"
+$ nom_president_gerant_S1 = "nom du president ou gerant societe 1"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ORDRE DE MOUVEMENT DE VALEURS MOBILIERES
+
+{{nom_S3}} 
+{{type_nom_S3}} au capital de {{montant_capital_social_S3}} euros
+Siège social : {{adresse_siege_social_S3}} 
+ {{numero_RCS_S3}} R.C.S. {{ville_immatriculation_S3}} 
+
+
+NATURE DES TITRES :	ACTION DE CAPITAL 
+
+
+
+NATURE DU MOUVEMENT :	transfert d’actions sous réserve de l’immatriculation de <compléter> et avec effet rétroactif au <compléter>
+
+
+
+QUANTITE :	la pleine propriété de {{nombre_actions}} actions 
+	
+En lettres :	la pleine propriété de {{nombre_actions_en_lettres}}  actions
+
+
+
+TITULAIRE	Numéro de compte d'actionnaire :	
+Nom et Prénom, ou Dénomination :	{{nom_S1}} <compléter> 
+N° RCS pour les personnes morales	{{numero_RCS_S1}}
+Adresse :	{{adresse_siege_social_S1}} 
+
+
+
+BENEFICIAIRE	Numéro de compte d'actionnaire :	
+Nom et Prénom, ou Dénomination :	{{nom_S2}}
+N° RCS pour les personnes morales	{{numero_RCS_S2}}
+Adresse :	 {{adresse_siege_social_S2}}
+VISA DE L’EMETTEUR :	ORDRE EMIS :
+
+Paris, le 
+    {{date_signature_contrat}} 
+Inscription en compte du bénéficiaire le {{date_inscription_compte_beneficiaire}}	
+Signature du Titulaire précédée de la mention « Bon pour transfert, sous réserve de l’immatriculation de la <compléter>, de <compléter> actions avec effet rétroactif au <compléter>»
+	
+
+
+
+______________________
+{{nom_S1}} - M. {{nom_president_gerant_S1}} 
+

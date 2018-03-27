@@ -1,0 +1,85 @@
+
+
+
+
+
+
+
+
+
+$ valeur_unitaire_action = "prix de l'action unitaire"
+$ prix_global_forfaitaire = "valeur"
+$ nombre_jours_immatriculation = "nombre"
+$ prix_cession_comptant = "valeur"
+$ prix_cession_a_terme = "valeur"
+$ delai_paiement_credit_vendeur = "jour/mois/année"
+$ montant_credit_bancaire = "valeur"
+$ duree_credit_bancaire = "nombre"
+$ taux_interet = "nombre"
+$ duree_credit_bancaire = "nombre"
+$ periodicite_remboursement = "mensuel"
+$ montant_frais_de_dossier = "valeur"
+
+$ compte_nantissement = "COMPTE"
+$ montant_nantissement = "VALEUR"
+$ nom_titres_nantissement = "NOM"
+$ nom_assure = "ASSURE"
+$ taux1_maintien_detention_titre = "TAUX1"
+$ detenteur_taux1 = "DETENTEUR1"
+$ taux2_maintien_detention_titre = "TAUX2"
+$ detenteur_taux1 = "DETENTEUR2"
+$ date_limite_maintien_detention = "DATE"
+$ date_limite_blocage_des_comptes = "DATE BLOQUAGE"
+$ date_limite_levee_financement_bancaire = "DATE LEVEE FINANCEMENT"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Article 3 : Prix de cession des Actions
+
+
+La présente cession de l’intégralité des Actions est consentie et est réalisée moyennant le prix unitaire de {{valeur_unitaire_action}} euros par action, soit un prix global forfaitaire et définitif de {{prix_global_forfaitaire}}.
+
+Le Cessionnaire règlera au Cédant l’intégralité du prix de cession, conformément aux modalités suivantes.
+
+A compter du jour de son immatriculation, et au plus tard dans les {{nombre_jours_immatriculation}} jours de son immatriculation, le Cessionnaire versera au Cédant une somme de {{prix_cession_comptant}}  € (le « Prix de Cession Comptant ») au moyen d’un chèque de banque établi à son ordre et/ou d’un virement bancaire irrévocable. Le Prix de Cession Comptant sera financé par voie d’une distribution de dividendes réalisée par la Société au profit du Cessionnaire.
+
+Le Cédant consent au Cessionnaire un crédit vendeur pour le paiement du solde du prix de cession, soit la somme de {{prix_cession_a_terme}}  euros (le « Prix de Cession à Terme »). Le crédit vendeur consenti par le Cédant est exclusivement destiné à permettre à l’Acquéreur de financer le solde du prix d’acquisition des Actions. Le crédit vendeur sera payé en totalité par l’Acquéreur au Cédant au plus tard dans les {{delai_paiement_credit_vendeur}} de sa première immatriculation au R.C.S. Il ne produira pas d’intérêt. Le Cessionnaire envisage de refinancer le crédit vendeur par l’obtention d’un financement bancaire d’environ {{montant_credit_bancaire}} €, conformément aux modalités suivantes.
+
+Tableau Besoins / Financements avec levée de dette bancaire :
+
+<compléter>
+
+
+
+
+
+Caractéristiques envisagées : 
+
+-	Montant : {{montant_credit_bancaire}} 
+-	Durée : {{duree_credit_bancaire}} ans
+-	Taux : {{periodicite_remboursement}} %
+-	Remboursement : {{periodicite_remboursement}} 
+-	Frais de dossier  {{montant_frais_de_dossier}}  euros
+Garanties :
+-	Nantissement d’un dépôt à terme sur le compte de {{compte_nantissement}} à hauteur de {{montant_nantissement}} euros pendant la durée du crédit ;
+-	Nantissement de 100% des titres de {{nom_titres_nantissement}} 
+-	Assurance décès-invalidité à 100% avec pour assuré {{nom_assure}} .
+
+Conditions particulières :
+-	Clause d’actionnariat de maintien de {{taux1_maintien_detention_titre}} % de détention des titres par {{detenteur_taux1}} , et {{taux2_maintien_detention_titre}} % de détention des titres par {{detenteur_taux1}} jusque {{date_limite_maintien_detention}}.
+-	Blocage des comptes courant d’associés jusqu’au {{date_limite_blocage_des_comptes}} 
+
+En cas de non réalisation de la levée de ce financement bancaire au plus tard le {{date_limite_levee_financement_bancaire}} , le Prix de Cession à Terme sera payé au Cédant par le Cessionnaire, selon les capacités de distribution de dividendes de la Société, ce qui est expressément accepté par les Parties.

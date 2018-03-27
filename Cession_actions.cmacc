@@ -1,0 +1,79 @@
+
+
+
+
+
+
+// preambule
+
+// objet du contrat 
+
+
+
+// cession des actions 
+
+
+// transfert de propriété des actions 
+
+
+// prix de cession des actions 
+
+
+// declaration du Cédant
+
+XXXXXXXXXXXX
+// frais de la cession 
+
+
+// garanties réciproques 
+
+
+
+// ayant droit des signataires 
+
+
+// confidentialité communication 
+
+
+
+
+// droit applicable 
+
+
+ 
+// clause attributive de juridiction
+
+
+//election de domicile et notification 
+
+
+//ordre de mouvement des valeurs mobilières 
+
+ENTRE LES SOUSSIGNEES :
+
+$ preambule = [./preambule.cmacc]
+$ Objet_contrat = [./Objet_contrat.cmacc]
+$ cession = [./cession.cmacc]
+$ remise_de_documents = [./remise_de_documents.cmacc]
+$ prix_cession = [./prix_cession.cmacc]
+$ declaration_du_cedant = [./declaration_du_cedant.cmacc]
+$ declaration_cessionnaire_et_cedant = [./declaration_cessionnaire_et_cedant.cmacc]
+$ ayant_droit_des_signataires = [./ayant_droit_des_signataires.cmacc]
+$ droit_applicable = [./droit_applicable.cmacc]
+$ clause_attributive_juridiction = [./clause_attributive_juridiction.cmacc]
+$ election_de_domicile = [./election_de_domicile.cmacc]
+$ ordre_de_mouvement_valeurs_mobilieres = [./ordre_de_mouvement_valeurs_mobilieres.cmacc]
+
+{{preambule}}
+{{Objet_contrat}}
+{{cession}}
+{{remise_de_documents}}
+{{prix_cession}}
+{{declaration_du_cedant}}
+{{declaration_cessionnaire_et_cedant}}
+{{ayant_droit_des_signataires}}
+{{droit_applicable}}
+{{clause_attributive_juridiction}}
+{{election_de_domicile}}
+{{ordre_de_mouvement_valeurs_mobilieres}}
+

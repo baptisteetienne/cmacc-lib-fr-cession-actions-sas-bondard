@@ -1,0 +1,45 @@
+$ lieu_redaction_contrat = "lieu"
+$ date_redaction_contrat = "date"
+$ nom_S1 = "nom_societe1"
+$ nom_president_gerant_S1 = "nom du president ou gerant societe 1"
+$ nom_S2 = "nom_societe2" 
+$ nom_president_gerant_S2 = "nom du president ou gerant societe 2"
+
+
+
+
+
+
+
+
+Article 11 : Élection de domicile et notifications
+
+
+Pour l’exécution des présentes, les Parties font élection de domicile en leur siège social respectif tel que mentionné en tête des présentes.
+
+Toute notification dans le cadre des présentes et de ses suites sera adressée par courrier recommandé avec accusé de réception ou sera remise en mains propres contre reçu, aux adresses mentionnées ci dessus ou ultérieurement notifiées aux autres Parties.
+
+Les notifications seront réputées effectivement données sur première présentation de la lettre recommandée avec accusé de réception, si elles sont adressées par la poste, ou dès réception, si elles sont remises en mains propres ou par acte extra judiciaire.
+
+
+
+
+Fait à {{lieu_redaction_contrat}}  le {{date_redaction_contrat}} 
+En 2 exemplaires originaux
+
+Cédant
+
+
+{{nom_S1}} 
+M. {{nom_president_gerant_S1}} - Gérant
+	
+
+
+
+
+
+Cessionnaire
+
+
+{{nom_S2}}
+Par {{nom_president_gerant_S2}} – Gérant
